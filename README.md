@@ -16,7 +16,7 @@ I'm building small, fast, and **physical** systems — from camera rigs to BLDC 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Digitalized-8mm-Camera** | Super-8 analog camera revived with a Pi Zero + OV5647, wireless file sync, 3D-printed chassis. | Raspberry Pi • Python • OpenCV • CAD |
+| **Dig8** | Super-8 analog camera revived with a Pi Zero + OV5647, wireless file sync, 3D-printed chassis. | Raspberry Pi • Python • OpenCV • CAD |
 | **PiVision** | Facial recognition and alerting system built on for i.e door/entry monitoring. | dlib/face_recognition • Flask • MQTT/Notify |
 | **NestWatch** | Built using my PiVision-Core. A Bird-feeder recognition module using lightweight CNNs for on-device species detection. | PyTorch Lite • OpenCV • Raspberry Pi 4 |
 | **PyVESC-ML (fork)** | Extended VESC communication and ML-tuning utilities for automated controller optimization. | Python • VESC • Motor Control |
