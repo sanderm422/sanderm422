@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sander — Embedded/ML engineer who enjoys developing embedded software for hands-on physical systems </h1>
+<h1 align="center">Hi, I'm Sander — Embedded/ML engineer developing embedded software for hands-on physical systems </h1>
 
 
 <p align="center">
